@@ -1,0 +1,73 @@
+body { background-color: burlywood; box-sizing: border-box; margin: 0; padding: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh;
+}
+
+.cartao_de_perfil {
+    background-color: #9fb2db;
+    border: 1px solid #bd7272;
+    border-radius: 50px;
+    padding: 40px;
+    max-width: 250px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.avatar {
+
+    width: 150px;
+    background-color: #ffff;
+    border: 1px solid;
+    border-radius: 100px;
+    padding: 10px;
+}
+
+.botoes {
+
+    border-radius: 50px;
+    padding: 5px;
+}
+
+
+#html {
+
+    background-color: #a15050;
+    border: 1px solid #bd7272 ;
+    border-radius: 50px;
+    padding: 5px;
+    max-width: 100px;
+    color: #000000
+}
+
+#css {
+    background-color: #c02fc0;
+    border: 1px solid #0a0a0a ;
+    border-radius: 50px;
+    padding: 5px;
+    max-width: 100px;
+    color: #000000
+}
+
+#git {
+    background-color: #70589c;
+    border: 1px solid #0a0a0a ;
+    border-radius: 50px;
+    padding: 5px;
+    max-width: 100px;
+    color: #000000
+}
+
+.disponivel {
+    background-color: #59bd31;
+    border: 1px solid #59bd31;
+    border-radius: 100px;
+    padding: 5px;
+    color: #000000;
+    
+}
+
+.SENAI {
+
+    text-decoration: underline;
+
+}
+
